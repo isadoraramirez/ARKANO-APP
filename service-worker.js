@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ARKANO-APP/precache-manifest.af3834efb7575e2d62eab963b634dfdf.js"
+  "/ARKANO-APP/precache-manifest.8b909b27fbee54ab0149397f89d05597.js"
 );
 
 self.addEventListener('message', (event) => {
